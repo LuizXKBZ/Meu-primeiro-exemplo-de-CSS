@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        ‹style>
+        <style>
             body {
                  background-color: lightblue;
             }
@@ -17,10 +17,10 @@
            }
        </style>
    </head>
-‹body>
+<body>
   
   <h1>Meu primeiro exemplo de CSS.</h1>
-  ‹p›Isto é um parágrafo.‹/p>
+  <p>Isto é um parágrafo.</p>
     
 </body>
 </html>
